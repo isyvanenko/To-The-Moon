@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ucacg/Documents/GitHub/To-The-Moon/ToTheMoon/Content/L_GravTest.umap",
+				"C:/Users/ucacg/Documents/GitHub/To-The-Moon/ToTheMoon/Content/BP_Gravity.uasset",
+				"C:/Users/ucacg/Documents/GitHub/To-The-Moon/ToTheMoon/Content/BP_GravityObject.uasset",
+				"C:/Users/ucacg/Documents/GitHub/To-The-Moon/ToTheMoon/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ucacg/Documents/GitHub/To-The-Moon/ToTheMoon/Content/TO-THE-MOON/Blueprints/BP_PoisenGAS.uasset",
+				"C:/Users/ucacg/Documents/GitHub/To-The-Moon/ToTheMoon/Content/TO-THE-MOON/Blueprints/BP_Base.uasset",
+				"C:/Users/ucacg/Documents/GitHub/To-The-Moon/ToTheMoon/Content/TO-THE-MOON/Blueprints/WB_OxygenUI.uasset",
 				"/Users/ihorsyvanenko/Documents/GitHub/To-The-Moon/ToTheMoon/Content/ThirdPerson/MI_ThirdPersonColWay.uasset",
 				"/Users/ihorsyvanenko/Documents/GitHub/To-The-Moon/ToTheMoon/Content/TO-THE-MOON/Materials/M_Vignette.uasset",
 				"/Users/ihorsyvanenko/Documents/GitHub/To-The-Moon/ToTheMoon/Content/TO-THE-MOON/Materials/MI_Vignette_Inst.uasset",
@@ -162,10 +169,7 @@
 				"C:/Users/ucacg/Documents/GitHub/To-The-Moon/ToTheMoon/Content/__ExternalActors__/L_Gravity/6/I7/ZSUCZ92MCBN1JMMKNYNCON.uasset",
 				"C:/Users/ucacg/Documents/GitHub/To-The-Moon/ToTheMoon/Content/__ExternalActors__/L_Gravity/7/4M/H92245LZXRE5548LKH4CV3.uasset",
 				"C:/Users/ucacg/Documents/GitHub/To-The-Moon/ToTheMoon/Content/__ExternalActors__/L_Gravity/3/S5/A3TLEFOSMBYIZGNKFA3JE2.uasset",
-				"C:/Users/ucacg/Documents/GitHub/To-The-Moon/ToTheMoon/Content/L_Gravity.umap",
-				"C:/Users/ucacg/Documents/GitHub/To-The-Moon/ToTheMoon/Content/L_GravTest.umap",
-				"C:/Users/ucacg/Documents/GitHub/To-The-Moon/ToTheMoon/Content/BP_Gravity.uasset",
-				"C:/Users/ucacg/Documents/GitHub/To-The-Moon/ToTheMoon/Content/BP_GravityObject.uasset"
+				"C:/Users/ucacg/Documents/GitHub/To-The-Moon/ToTheMoon/Content/L_Gravity.umap"
 			]
 		}
 	]
