@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"/Users/ihorsyvanenko/Documents/GitHub/To-The-Moon/ToTheMoon/Content/ThirdPerson/MI_ThirdPersonColWay.uasset"
+				"/Users/ihorsyvanenko/Documents/GitHub/To-The-Moon/ToTheMoon/Content/ThirdPerson/MI_ThirdPersonColWay.uasset",
+				"/Users/ihorsyvanenko/Documents/GitHub/To-The-Moon/ToTheMoon/Content/TO-THE-MOON/Blueprints/AC_OxygenDestroyer.uasset",
+				"/Users/ihorsyvanenko/Documents/GitHub/To-The-Moon/ToTheMoon/Content/TO-THE-MOON/Blueprints/BP_Base.uasset",
+				"/Users/ihorsyvanenko/Documents/GitHub/To-The-Moon/ToTheMoon/Content/TO-THE-MOON/Other/OxygenLevel.umap",
+				"/Users/ihorsyvanenko/Documents/GitHub/To-The-Moon/ToTheMoon/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
