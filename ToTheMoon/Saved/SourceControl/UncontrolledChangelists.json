@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ucacg/OneDrive/Documents/Github/To-The-Moon/ToTheMoon/Content/LevelPrototyping/CollectibleTest.umap",
+				"C:/Users/ucacg/OneDrive/Documents/Github/To-The-Moon/ToTheMoon/Content/Blueprints/BP_ItemSpawnPoint.uasset",
+				"C:/Users/ucacg/OneDrive/Documents/Github/To-The-Moon/ToTheMoon/Content/Blueprints/BP_ItemSpawnManager.uasset",
+				"C:/Users/ucacg/OneDrive/Documents/Github/To-The-Moon/ToTheMoon/Content/Blueprints/BP_Collectible.uasset",
 				"/Users/ihorsyvanenko/Documents/GitHub/To-The-Moon/ToTheMoon/Content/ThirdPerson/MI_ThirdPersonColWay.uasset"
 			]
 		}
