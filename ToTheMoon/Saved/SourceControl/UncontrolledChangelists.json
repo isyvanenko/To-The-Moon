@@ -5,6 +5,25 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ucacg/OneDrive/Desktop/PixelatedReverieGit/To-The-Moon/ToTheMoon/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset",
+				"C:/Users/ucacg/OneDrive/Desktop/PixelatedReverieGit/To-The-Moon/ToTheMoon/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset",
+				"C:/Users/ucacg/OneDrive/Desktop/PixelatedReverieGit/To-The-Moon/ToTheMoon/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset",
+				"C:/Users/ucacg/OneDrive/Desktop/PixelatedReverieGit/To-The-Moon/ToTheMoon/Content/LevelPrototyping/Interactable/Target/Assets/SM_TargetBaseMesh.uasset",
+				"C:/Users/ucacg/OneDrive/Desktop/PixelatedReverieGit/To-The-Moon/ToTheMoon/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_Door.uasset",
+				"C:/Users/ucacg/OneDrive/Desktop/PixelatedReverieGit/To-The-Moon/ToTheMoon/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Corner.uasset",
+				"C:/Users/ucacg/OneDrive/Desktop/PixelatedReverieGit/To-The-Moon/ToTheMoon/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Edge.uasset",
+				"C:/Users/ucacg/OneDrive/Desktop/PixelatedReverieGit/To-The-Moon/ToTheMoon/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand.uasset",
+				"C:/Users/ucacg/OneDrive/Desktop/PixelatedReverieGit/To-The-Moon/ToTheMoon/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow.uasset",
+				"C:/Users/ucacg/OneDrive/Desktop/PixelatedReverieGit/To-The-Moon/ToTheMoon/Content/RandomEvents/Blueprints/BP_HazardSpawnZone.uasset",
+				"C:/Users/ucacg/OneDrive/Desktop/PixelatedReverieGit/To-The-Moon/ToTheMoon/Content/RandomEvents/DataTables/S_Hazards.uasset",
+				"C:/Users/ucacg/OneDrive/Desktop/PixelatedReverieGit/To-The-Moon/ToTheMoon/Content/RandomEvents/DataTables/DT_Hazards.uasset",
+				"C:/Users/ucacg/OneDrive/Desktop/PixelatedReverieGit/To-The-Moon/ToTheMoon/Content/RandomEvents/DataTables/E_HazardTypes.uasset",
+				"C:/Users/ucacg/OneDrive/Desktop/PixelatedReverieGit/To-The-Moon/ToTheMoon/Content/RandomEvents/Levels/L_RandomEvents.umap",
+				"C:/Users/ucacg/OneDrive/Desktop/PixelatedReverieGit/To-The-Moon/ToTheMoon/Content/RandomEvents/Blueprints/BP_MeteorZone.uasset",
+				"C:/Users/ucacg/OneDrive/Desktop/PixelatedReverieGit/To-The-Moon/ToTheMoon/Content/RandomEvents/UI/UI_Warning.uasset",
+				"C:/Users/ucacg/OneDrive/Desktop/PixelatedReverieGit/To-The-Moon/ToTheMoon/Content/RandomEvents/Blueprints/BPI_HazardUI.uasset",
+				"C:/Users/ucacg/OneDrive/Desktop/PixelatedReverieGit/To-The-Moon/ToTheMoon/Content/RandomEvents/Blueprints/BP_Meteor.uasset",
+				"C:/Users/ucacg/OneDrive/Desktop/PixelatedReverieGit/To-The-Moon/ToTheMoon/Content/RandomEvents/Blueprints/BP_IceManager.uasset",
 				"/Users/ihorsyvanenko/Documents/GitHub/To-The-Moon/ToTheMoon/Content/ThirdPerson/MI_ThirdPersonColWay.uasset"
 			]
 		}
