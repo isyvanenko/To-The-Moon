@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/bhaga/OneDrive/Documents/GitHub/To-The-Moon/ToTheMoon/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset",
+				"C:/Users/bhaga/OneDrive/Documents/GitHub/To-The-Moon/ToTheMoon/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset",
+				"C:/Users/bhaga/OneDrive/Documents/GitHub/To-The-Moon/ToTheMoon/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset",
+				"C:/Users/bhaga/OneDrive/Documents/GitHub/To-The-Moon/ToTheMoon/Content/LevelPrototyping/Interactable/Target/Assets/SM_TargetBaseMesh.uasset",
+				"C:/Users/bhaga/OneDrive/Documents/GitHub/To-The-Moon/ToTheMoon/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_Door.uasset",
+				"C:/Users/bhaga/OneDrive/Documents/GitHub/To-The-Moon/ToTheMoon/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Corner.uasset",
+				"C:/Users/bhaga/OneDrive/Documents/GitHub/To-The-Moon/ToTheMoon/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Edge.uasset",
+				"C:/Users/bhaga/OneDrive/Documents/GitHub/To-The-Moon/ToTheMoon/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand.uasset",
+				"C:/Users/bhaga/OneDrive/Documents/GitHub/To-The-Moon/ToTheMoon/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow.uasset",
+				"C:/Users/bhaga/OneDrive/Documents/GitHub/To-The-Moon/ToTheMoon/Content/Moon_surface.umap",
+				"C:/Users/bhaga/OneDrive/Documents/GitHub/To-The-Moon/ToTheMoon/Content/LevelPrototyping/Meshes/SM_SM_ChamferCube.uasset",
 				"/Users/ihorsyvanenko/Documents/GitHub/To-The-Moon/ToTheMoon/Content/ThirdPerson/MI_ThirdPersonColWay.uasset"
 			]
 		}
