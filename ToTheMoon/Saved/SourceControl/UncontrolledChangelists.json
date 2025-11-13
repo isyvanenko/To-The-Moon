@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHUB projects/To-The-Moon/ToTheMoon/Content/TO-THE-MOON/Blueprints/WB_PauseMenu.uasset",
+				"D:/GitHUB projects/To-The-Moon/ToTheMoon/Content/TO-THE-MOON/Blueprints/WB_Death.uasset",
+				"D:/GitHUB projects/To-The-Moon/ToTheMoon/Content/TO-THE-MOON/Materials/Moon-Loot-Death.uasset",
+				"D:/GitHUB projects/To-The-Moon/ToTheMoon/Content/TO-THE-MOON/Materials/Moon-Loot-Pause.uasset",
 				"/Users/ihorsyvanenko/Documents/GitHub/To-The-Moon/ToTheMoon/Content/ThirdPerson/MI_ThirdPersonColWay.uasset",
 				"/Users/ihorsyvanenko/Documents/GitHub/To-The-Moon/ToTheMoon/Content/TO-THE-MOON/Materials/M_UI_Vignette.uasset",
 				"/Users/ihorsyvanenko/Documents/GitHub/To-The-Moon/ToTheMoon/Content/TO-THE-MOON/Materials/MI_UI_Vignette_Inst.uasset",
