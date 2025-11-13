@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ucacg/OneDrive/Desktop/PixelatedReverieGit/To-The-Moon/ToTheMoon/Content/RandomEvents/Blueprints/BP_HazardSpawnZone.uasset",
+				"C:/Users/ucacg/OneDrive/Desktop/PixelatedReverieGit/To-The-Moon/ToTheMoon/Content/RandomEvents/Blueprints/BP_IceManager.uasset",
+				"C:/Users/ucacg/OneDrive/Desktop/PixelatedReverieGit/To-The-Moon/ToTheMoon/Content/RandomEvents/Blueprints/BP_GasZone.uasset",
+				"C:/Users/ucacg/OneDrive/Desktop/PixelatedReverieGit/To-The-Moon/ToTheMoon/Content/RandomEvents/Blueprints/BP_Meteor.uasset",
+				"C:/Users/ucacg/OneDrive/Desktop/PixelatedReverieGit/To-The-Moon/ToTheMoon/Content/RandomEvents/Blueprints/BP_RatHole.uasset",
 				"D:/GitHUB projects/To-The-Moon/ToTheMoon/Content/TO-THE-MOON/Blueprints/WB_PauseMenu.uasset",
 				"D:/GitHUB projects/To-The-Moon/ToTheMoon/Content/TO-THE-MOON/Blueprints/WB_Death.uasset",
 				"D:/GitHUB projects/To-The-Moon/ToTheMoon/Content/TO-THE-MOON/Materials/Moon-Loot-Death.uasset",
