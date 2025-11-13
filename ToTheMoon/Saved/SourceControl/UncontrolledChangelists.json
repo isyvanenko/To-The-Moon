@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHUB projects/To-The-Moon/ToTheMoon/Content/TO-THE-MOON/Blueprints/WB_MainMenu.uasset",
+				"D:/GitHUB projects/To-The-Moon/ToTheMoon/Content/TO-THE-MOON/Other/LV_MainMenu.umap",
+				"D:/GitHUB projects/To-The-Moon/ToTheMoon/Content/TO-THE-MOON/Blueprints/GM_MainMenu.uasset",
+				"D:/GitHUB projects/To-The-Moon/ToTheMoon/Content/TO-THE-MOON/Materials/Moon-Loot-Logo.uasset",
+				"D:/GitHUB projects/To-The-Moon/ToTheMoon/Content/TO-THE-MOON/Other/LV_MainMenuNew.umap",
+				"D:/GitHUB projects/To-The-Moon/ToTheMoon/Content/TO-THE-MOON/Blueprints/BP_MainMenuCam.uasset",
 				"C:/Users/ucacg/Documents/GitHub/To-The-Moon/ToTheMoon/Content/L_GravTest.umap",
 				"C:/Users/ucacg/Documents/GitHub/To-The-Moon/ToTheMoon/Content/BP_Gravity.uasset",
 				"C:/Users/ucacg/Documents/GitHub/To-The-Moon/ToTheMoon/Content/BP_GravityObject.uasset",
